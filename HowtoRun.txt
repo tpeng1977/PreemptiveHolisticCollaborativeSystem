@@ -1,0 +1,20 @@
+Copyright by t.peng@ieee.org, 2024.
+
+This program is used to control SUMO to do specified simulations.
+
+I am using SUMO 1.20.0. SUMO is Eclipse SUMO - Simulation of Urban MObility.
+The version of Python is 3.10.6
+Required packages of Python is listed in requirements.txt.
+
+
+1. Traditional Krauss/LC2013 model implementation is under directory "Krauss_LC2013".
+Using run_simulation.py to get the simulation result.
+
+2. Traditional Krauss/LC2013 without parallel acceleration lane is under directory "BaseLine"
+Using run_simulation.py to get the simulation result.
+
+3. Preemptive Holistic Collaborative System strategy is under directory "TryPreemptiveCollaborativeSystem".
+Using PreemptiveMerge.py to get the simulation result.  Its performance is much better than the others.
+The details can be found in the "output" directory when the program finished.
+
+

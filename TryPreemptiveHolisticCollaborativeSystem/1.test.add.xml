@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- Detectors -->
+    <laneAreaDetector id="e0" lane="E0_0" pos="880" length="130.00" period="300.00" file="Nul"/>
+    <laneAreaDetector id="e1" lane="E1_0" pos="887.83" length="100.00" period="300.00" file="Nul"/>
+</additional>
