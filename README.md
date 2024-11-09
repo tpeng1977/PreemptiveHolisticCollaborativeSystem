@@ -14,7 +14,17 @@ Subsequent research, product development, and commercial applications based on t
       primaryClass={eess.SY},
       url={https://arxiv.org/abs/2411.01918}, 
 }
-Peng, Ting, et al. "Preemptive Holistic Collaborative System and Its Application in Road Transportation." arXiv preprint arXiv:2411.01918 (2024). Tao, Li, et al. "Holistic view of the road transportation system based on real-time data sharing mechanism." arXiv preprint arXiv:2407.03187 (2024). X. Xu et al., "Spatio-temporal Cooperative Control Method of Highway Ramp Merge Based on Vehicle-road Coordination," 2024 12th International Conference on Traffic and Logistic Engineering (ICTLE), Macau, China, 2024, pp. 93-98, doi: 10.1109/ICTLE62418.2024.10703891. Peng, Ting, et al. "Optimizing Highway Ramp Merge Safety and Efficiency via Spatio-Temporal Cooperative Control and Vehicle-Road Coordination." arXiv preprint arXiv:2408.08121 (2024). Peng, Ting, et al. "Preemptive Conflict Resolution in Road Transport: A Holistic Approach for Enhancing Efficiency and Safety." Insight W&T. 2024.
+
+
+Peng, Ting, et al. "Preemptive Holistic Collaborative System and Its Application in Road Transportation." arXiv preprint arXiv:2411.01918 (2024). 
+
+Tao, Li, et al. "Holistic view of the road transportation system based on real-time data sharing mechanism." arXiv preprint arXiv:2407.03187 (2024). 
+
+X. Xu et al., "Spatio-temporal Cooperative Control Method of Highway Ramp Merge Based on Vehicle-road Coordination," 2024 12th International Conference on Traffic and Logistic Engineering (ICTLE), Macau, China, 2024, pp. 93-98, doi: 10.1109/ICTLE62418.2024.10703891. 
+
+Peng, Ting, et al. "Optimizing Highway Ramp Merge Safety and Efficiency via Spatio-Temporal Cooperative Control and Vehicle-Road Coordination." arXiv preprint arXiv:2408.08121 (2024). 
+
+Peng, Ting, et al. "Preemptive Conflict Resolution in Road Transport: A Holistic Approach for Enhancing Efficiency and Safety." Insight W&T. 2024.
 
 
 抢先整体协同系统及其在道路交通中的应用
@@ -34,10 +44,13 @@ Peng, Ting, et al. "Preemptive Holistic Collaborative System and Its Application
       url={https://arxiv.org/abs/2411.01918}, 
 }
 
-Peng, Ting, et al. "Preemptive Holistic Collaborative System and Its Application in Road Transportation." arXiv preprint arXiv:2411.01918 (2024).
-Tao, Li, et al. "Holistic view of the road transportation system based on real-time data sharing mechanism." arXiv preprint arXiv:2407.03187 (2024).
-X. Xu et al., "Spatio-temporal Cooperative Control Method of Highway Ramp Merge Based on Vehicle-road Coordination," 2024 12th International Conference on Traffic and Logistic Engineering (ICTLE), Macau, China, 2024, pp. 93-98, doi: 10.1109/ICTLE62418.2024.10703891.
-Peng, Ting, et al. "Optimizing Highway Ramp Merge Safety and Efficiency via Spatio-Temporal Cooperative Control and Vehicle-Road Coordination." arXiv preprint arXiv:2408.08121 (2024).
+
+Peng, Ting, et al. "Preemptive Holistic Collaborative System and Its Application in Road Transportation." arXiv preprint arXiv:2411.01918 (2024). 
+
+Tao, Li, et al. "Holistic view of the road transportation system based on real-time data sharing mechanism." arXiv preprint arXiv:2407.03187 (2024). 
+
+X. Xu et al., "Spatio-temporal Cooperative Control Method of Highway Ramp Merge Based on Vehicle-road Coordination," 2024 12th International Conference on Traffic and Logistic Engineering (ICTLE), Macau, China, 2024, pp. 93-98, doi: 10.1109/ICTLE62418.2024.10703891. 
+
+Peng, Ting, et al. "Optimizing Highway Ramp Merge Safety and Efficiency via Spatio-Temporal Cooperative Control and Vehicle-Road Coordination." arXiv preprint arXiv:2408.08121 (2024). 
+
 Peng, Ting, et al. "Preemptive Conflict Resolution in Road Transport: A Holistic Approach for Enhancing Efficiency and Safety." Insight W&T. 2024.
-
-
