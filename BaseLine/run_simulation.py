@@ -1,3 +1,4 @@
+import platform
 import copy
 import os
 import sys
@@ -23,12 +24,17 @@ else:
 
 np.random.seed(1024)
 
-if 'SUMO_HOME' in os.environ:
-    tools = os.path.join(os.environ['SUMO_HOME'], 'tools')
-    sumo_gui = os.path.join(os.environ['SUMO_HOME'], 'bin\\sumo-gui')
-    sys.path.append(tools)
+system = platform.system()
+if system == "Linux":
+    tools = r'/usr/share/sumo/tools'
+    sumo_gui = r'/usr/bin/sumo-gui'
 else:
-    sys.exit("please declare environment variable 'SUMO_HOME'")
+    if 'SUMO_HOME' in os.environ or True:
+        tools = os.path.join(os.environ['SUMO_HOME'], 'tools')
+        sumo_gui = os.path.join(os.environ['SUMO_HOME'], 'bin\\sumo-gui')
+        sys.path.append(tools)
+    else:
+        sys.exit("please declare environment variable 'SUMO_HOME'")
 
 
 # 根据车流量生成rou文件

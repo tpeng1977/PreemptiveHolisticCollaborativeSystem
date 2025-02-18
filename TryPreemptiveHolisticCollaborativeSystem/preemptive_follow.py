@@ -711,9 +711,9 @@ class TrajectoryMerge:
                     print(f"compose follow trajectory for {t_vehicle} failed with error {repr(e)}.")
             self.r_list.append({'vehicle': t_vehicle, 'time': time, 'speed': speed, 'x': x})
             if len(self.merge_list) == 0:
-                self.merge_list.append({'vehicle': t_vehicle, 'time': m_trajectory['trajectory']['time'][-1],
-                                        'speed': m_trajectory['trajectory']['speed'][-1],
-                                        'x': m_trajectory['trajectory']['x'][-1]})
+                self.merge_list.append({'vehicle': t_vehicle, 'time': r_trajectory['trajectory']['time'][-1],
+                                        'speed': r_trajectory['trajectory']['speed'][-1],
+                                        'x': r_trajectory['trajectory']['x'][-1]})
                 t_complete_trajectory = self.complete_mono_trajectory(r_trajectory, additional_space=additional_space)
                 self.scheduled_trajectories[t_vehicle] = t_complete_trajectory
             else:
